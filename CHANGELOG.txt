@@ -1,0 +1,4 @@
+Version 1.1.1 (2022-03-09)
+----------------------------
+- Added option to Show or Hide Steering bar (two scripts now merged into one).
+- Steering bar length, position dot, and edge size are adjustable.
